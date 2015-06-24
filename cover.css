@@ -38,7 +38,8 @@ body {
   height: 100%;
   background-color: #303335;
   font-family: 'Sarala', sans-serif;
-  background: url("https://download.unsplash.com/photo-1428263197823-ce6a8620d1e1");
+  /*background: url("https://download.unsplash.com/photo-1428263197823-ce6a8620d1e1");*/
+  background: url('img/bg.jpg');
   background-size: cover;
 }
 body {
