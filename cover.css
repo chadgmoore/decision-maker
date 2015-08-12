@@ -21,7 +21,9 @@ a:hover {
   text-shadow: none; /* Prevent inheritence from `body` */
   background-color: #303335;
   border: 1px solid #B9DA30;
-  padding-top: 2em;
+  padding-top: 0em;
+  height: 4em;
+  width: 6em;
 }
 
 .btn-default:hover{
@@ -105,6 +107,7 @@ li{
   color: #B0B3B5;
   padding-bottom: 2em;
 }
+
 
 /* Padding for spacing */
 .inner {
@@ -249,5 +252,8 @@ li{
   }
   .col-md-3 {
     width: 50%;
+    margin: 0;
+    padding: 0;
   }
+
 }
