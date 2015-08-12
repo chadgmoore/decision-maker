@@ -1,3 +1,4 @@
-$('.inner.cover ').delay(2400).animate({opacity: .75, duration: 1200, easing: "easein"});
-// Papi is here at 8am tomorrow.
-
+// Fade in?
+// tooltips?
+// angular slider
+// append info from button to list below

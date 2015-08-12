@@ -13,6 +13,15 @@ a:hover {
   text-decoration: none;
 }
 
+footer {
+  font-size: 1em;
+  color: #B0B3B5;
+}
+
+footer a{
+  text-decoration: underline;
+}
+
 /* Custom default button */
 .btn-default,
 .btn-default:hover,
