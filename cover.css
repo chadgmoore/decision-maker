@@ -2,6 +2,8 @@
  * Globals
  */
 
+/* red/con #8D2418;*/
+
 /* Links */
 a{
   color: #D9DEC4;
@@ -39,6 +41,12 @@ footer a{
   color: #303335;
   background-color: #B9DA30;
 }
+
+#con:hover{
+  background-color: #8D2418;
+  color: #fff;
+}
+
 
 /*
  * Base structure
