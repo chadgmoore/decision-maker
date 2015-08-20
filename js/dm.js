@@ -8,8 +8,6 @@ $('.btn').on('click', function(){
 	var proCon = $(this).attr('id');
 	console.log(proCon);
 	$('#list').append(proCon).slideDown('slow');
-      
-
 });
 
 });
